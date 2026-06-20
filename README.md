@@ -11,62 +11,32 @@
 # 🌸 About Me
 
 ```python
-
 class KartikeyGupta:
+    name = "Kartikey Gupta"
+    location = "Bulandshahr, Uttar Pradesh, India"
 
-&#x20;   name = "Kartikey Gupta"
+    interests = [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Computer Vision",
+        "Photography",
+        "Graphic Designing",
+        "Videography",
+        "Web Development",
+        "Problem Solving"
+    ]
 
-&#x20;   location = "Bulandshahr, Uttar Pradesh, India"
+    ask_me_about = [
+        "Python",
+        "JavaScript",
+        "React",
+        "Flask",
+        "OpenCV",
+        "MediaPipe",
+        "Machine Learning"
+    ]
 
-
-
-&#x20;   interests = \[
-
-&#x20;       "Artificial Intelligence",
-
-&#x20;       "Machine Learning",
-
-&#x20;       "Computer Vision",
-
-&#x20;       "Photography",
-
-&#x20;       "Graphic Designing",
-
-&#x20;       "Videography",
-
-&#x20;       "Web Development",
-
-&#x20;       "Problem Solving"
-
-&#x20;   ]
-
-
-
-&#x20;   ask\_me\_about = \[
-
-&#x20;       "Python",
-
-&#x20;       "JavaScript",
-
-&#x20;       "React",
-
-&#x20;       "Flask",
-
-&#x20;       "OpenCV",
-
-&#x20;       "MediaPipe",
-
-&#x20;       "Machine Learning"
-
-&#x20;   ]
-
-
-
-&#x20;   fun\_fact = "I enjoy combining creativity and technology through code, cameras, and design."
-
-````
-
----
+    fun_fact = "I enjoy combining creativity and technology through coding, photography, videography, and design."
 
 # 💻 Tech Stack
 
@@ -139,19 +109,17 @@ class KartikeyGupta:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kartikey-kg\&show\_icons=true\&theme=tokyonight\&hide\_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kartikey-kg&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartikey-kg\&layout=compact\&theme=tokyonight\&hide\_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartikey-kg&layout=compact&theme=tokyonight"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kartikey-kg\&theme=tokyonight\&hide\_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Kartikey-kg&theme=tokyonight"/>
 
 </div>
-
----
 
 # 🌼 What I'm Up To
 

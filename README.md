@@ -10,31 +10,15 @@
 
 ## 👨‍💻 About Me
 
-```python
-class KartikeyGupta:
+## 👨‍💻 About Me
 
-    name = "Kartikey Gupta"
-
-    interests = [
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Computer Vision",
-        "Full Stack Development",
-        "Photography",
-        "Videography",
-        "Graphic Designing"
-    ]
-
-    currently_learning = [
-        "Machine Learning",
-        "Computer Vision",
-        "Advanced Web Development"
-    ]
-
-    motto = "Build. Learn. Create. Repeat."
-```
-
----
+- 🎓 MCA Student at TIET Patiala
+- 💻 Full Stack Developer
+- 🤖 Interested in AI, Machine Learning & Computer Vision
+- 📸 Photography Enthusiast
+- 🎥 Videography & Content Creation
+- 🎨 Graphic Design & Creative Media
+- 🚀 Passionate about building real-world projects
 
 ## 🚀 Tech Stack
 

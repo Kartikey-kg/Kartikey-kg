@@ -10,15 +10,23 @@
 
 ## 👨‍💻 About Me
 
-## 👨‍💻 About Me
+Hi, I'm **Kartikey Gupta** 👋
 
-- 🎓 MCA Student at TIET Patiala
-- 💻 Full Stack Developer
-- 🤖 Interested in AI, Machine Learning & Computer Vision
-- 📸 Photography Enthusiast
-- 🎥 Videography & Content Creation
-- 🎨 Graphic Design & Creative Media
-- 🚀 Passionate about building real-world projects
+💻 Full Stack Developer
+
+🤖 AI & Machine Learning Enthusiast
+
+👁️ Computer Vision Explorer
+
+📸 Photography Lover
+
+🎥 Videography Creator
+
+🎨 Graphic Design Enthusiast
+
+🚀 Passionate about building real-world projects and turning ideas into reality.
+
+📚 Currently exploring Machine Learning, Computer Vision, and Modern Web Technologies.
 
 ## 🚀 Tech Stack
 

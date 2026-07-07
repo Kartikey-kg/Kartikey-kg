@@ -1,244 +1,400 @@
+# KARTIKEY GUPTA
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=3b0066,7a00ff&height=250&section=header&text=KARTIKEY%20GUPTA&fontSize=55&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header Banner" />
-  
-  <br/>
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=AI+%2F+ML+Engineer;Full+Stack+Developer;Creative+Problem+Solver" alt="Typing SVG" />
-  
-  <br/>
 
-  <p align="center">
-    <img src="https://img.shields.io/badge/TIET_Patiala-MCA-indigo?style=flat-square&logo=academia&logoColor=white&color=5c00a3" alt="TIET MCA" />
-    <img src="https://img.shields.io/badge/Chandigarh_University-BCA-blueviolet?style=flat-square&logo=education&logoColor=white&color=4b0082" alt="CU BCA" />
-    <img src="https://img.shields.io/badge/Location-Bulandshahr%2C_UP%2C_India-blue?style=flat-square&logo=googlemaps&logoColor=white&color=12005e" alt="Location" />
-  </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,12,20,24,30&text=Kartikey%20Gupta&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55"/>
 
-  <p align="center">
-    <a href="mailto:kkartikeygupta@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Contact_Me-purple?style=for-the-badge&logo=gmail&logoColor=white&color=7a00ff" alt="Email" />
-    </a>
-    <a href="https://linkedin.com/in/kkartikeygupta">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-blueviolet?style=for-the-badge&logo=linkedin&logoColor=white&color=8a2be2" alt="LinkedIn" />
-    </a>
-    <a href="https://github.com/Kartikey-kg">
-      <img src="https://img.shields.io/badge/GitHub-Follow-indigo?style=for-the-badge&logo=github&logoColor=white&color=5c00a3" alt="GitHub" />
-    </a>
-    <a href="https://kartikey-portfolio.vercel.app">
-      <img src="https://img.shields.io/badge/Portfolio-Visit-darkviolet?style=for-the-badge&logo=google-chrome&logoColor=white&color=4b0082" alt="Portfolio" />
-    </a>
-  </p>
+<br>
 
-  <p align="center">
-    <img src="https://komarev.com/normal-badge/?username=Kartikey-kg&color=9d4edd&style=flat-square&label=Profile+Views" alt="Profile Views" />
-    <img src="https://img.shields.io/github/followers/Kartikey-kg?label=Followers&style=flat-square&color=8a2be2" alt="Followers" />
-    <img src="https://img.shields.io/github/stars/Kartikey-kg?label=Stars&style=flat-square&color=7a00ff" alt="Stars" />
-  </p>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Software+Engineer;AI+%26+Machine+Learning+Developer;Full+Stack+Web+Developer;React+%7C+Python+%7C+Node.js+%7C+SQL;Building+Scalable+Applications;Always+Learning+Always+Building"/>
+
+<br><br>
+
+![](https://img.shields.io/badge/MCA-Thapar_Institute_of_Engineering_&_Technology-6C63FF?style=for-the-badge)
+![](https://img.shields.io/badge/BCA-Chandigarh_University-7F5AF0?style=for-the-badge)
+![](https://img.shields.io/badge/Location-Bulandshahr,_India-8B5CF6?style=for-the-badge)
+
+<br>
+
+<a href="https://github.com/Kartikey-kg">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/kartikey-gupta-74b5b02a0/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:kkartikeygupta@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/Kartikey-kg">
+<img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge"/>
+</a>
+
+<br><br>
+
+![](https://komarev.com/ghpvc/?username=Kartikey-kg&style=for-the-badge&color=7F5AF0)
+
+![](https://img.shields.io/github/followers/Kartikey-kg?style=for-the-badge&logo=github&color=6C63FF)
+
+![](https://img.shields.io/github/stars/Kartikey-kg?style=for-the-badge&logo=github&color=8A2BE2)
+
 </div>
 
 ---
 
-## 🌌 About Me
+# About Me
 
-I am a highly analytical and detail-oriented **Software Engineer** and **AI/ML Specialist** currently pursuing my Master of Computer Applications (MCA) at the *Thapar Institute of Engineering & Technology (TIET), Patiala*. With a solid academic foundation in Computer Applications (BCA from *Chandigarh University*) and a passion for engineering high-performance systems, I build at the intersection of robust backend architectures and intelligent computer vision/NLP models.
+I am a **Software Engineer** currently pursuing my **Master of Computer Applications (MCA)** at **Thapar Institute of Engineering & Technology (TIET), Patiala**.
 
-### Focus Areas
-* 🚀 **Full-Stack Development**: Designing scalable RESTful APIs, relational/non-relational databases, and responsive user interfaces.
-* 🧠 **AI & Machine Learning**: Implementing deep learning architectures, real-time computer vision networks, and NLP systems.
-* 🛠️ **Product Engineering**: Bridging the gap between technical complexity and practical business impact to deliver seamless end-to-end user experiences.
+My primary interests lie in **Software Engineering**, **Artificial Intelligence**, **Machine Learning**, **Computer Vision**, and **Full Stack Development**. I enjoy designing scalable software systems, solving real-world engineering problems, and building intelligent applications that combine modern web technologies with AI.
+
+I believe in writing maintainable code, learning industry best practices, and continuously improving my engineering skills through projects, certifications, and open-source contributions.
 
 ### Open To
-* 💼 Full-Time Roles & Internships in Software Engineering / AI-ML.
-* 🤝 Collaborating on cutting-edge computer vision, NLP, and full-stack projects.
-* 🌍 Open-source contributions to developer toolkits, libraries, and frameworks.
+
+- Software Engineering Internships
+- Full Stack Development
+- AI / ML Engineering
+- Computer Vision Projects
+- Open Source Contributions
+- Research Collaborations
 
 ---
 
-## 🛠️ Technical Stack
+# Tech Stack
 
-### 💻 Languages
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,cpp,postgres" alt="Languages" />
-  </a>
+## Languages
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,js,sql"/>
+
 </p>
 
-### 🎨 Frontend
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,react" alt="Frontend" />
-  </a>
+## Frontend
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap"/>
+
 </p>
 
-### ⚙️ Backend & Databases
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,flask,mongodb,mysql,sqlite" alt="Backend & Databases" />
-  </a>
+## Backend & Databases
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,mysql,sqlite,mongodb"/>
+
 </p>
 
-### ☁️ Cloud, DevOps & Tooling
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Cloud, DevOps & Tooling" />
-  </a>
-</p>
+## Cloud • DevOps • Tooling
 
-### 📦 AI/ML Libraries & Frameworks
-<p align="left">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/MediaPipe-00b4d8?style=for-the-badge&logo=google&logoColor=white" alt="MediaPipe" />
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux"/>
+
 </p>
 
 ---
 
-## 🤖 AI / ML Expertise
+# AI / ML Expertise
 
 | Domain | Proficiency | Details |
-| :--- | :---: | :--- |
-| **Computer Vision** | `Advanced` | Real-time object detection (TensorFlow, OpenCV), hand tracking, pose estimation, and face mesh (MediaPipe). |
-| **Natural Language Processing (NLP)** | `Intermediate` | Skill gap analysis, text parsing/tokenization, automated skill extraction, and TF-IDF semantic matching. |
-| **Machine Learning / Deep Learning** | `Intermediate` | Supervised/unsupervised model training, feature engineering with Pandas/NumPy, and model evaluation. |
+|---------|------------|----------|
+| Machine Learning | Advanced | Supervised Learning, Feature Engineering, Model Evaluation |
+| Deep Learning | Intermediate | Neural Networks, CNN Fundamentals |
+| Computer Vision | Advanced | OpenCV, MediaPipe, Image Processing |
+| NLP | Intermediate | Resume Analysis, Skill Extraction |
+| Data Analysis | Intermediate | NumPy, Pandas, Matplotlib |
+| AI Deployment | Intermediate | Flask APIs, SQLite Integration |
 
 ---
 
-## 🚀 Featured Projects
+# Featured Projects
 
 <details>
-<summary><b>📋 AI Resume Skill Gap Analyzer</b></summary>
-<br/>
+<summary><b>AI Resume Skill Gap Analyzer</b></summary>
 
-> An AI-powered resume analysis platform using Natural Language Processing and Machine Learning to automate skill extraction, job matching, and personalized career recommendations.
+### Professional Overview
 
-### Technical Profile
-| Dimension | Specification |
-| :--- | :--- |
-| **Stack** | Python, Flask, NLP, SQLite, Scikit-learn, HTML5, CSS3 |
-| **Scale** | Multi-user capability with secure local file processing and lightweight databases |
-| **Performance** | Sub-second resume parsing, tokenization, and vector cosine similarity scoring |
-| **Security** | Sanitized file upload validation, structured SQLite query parameterization |
-| **Impact** | Automates resume evaluation and outputs highly targeted skill improvement metrics |
-| **Repository** | [AI-Resume-Skill-Gap-Analyzer](https://github.com/Kartikey-kg/AI-Resume-Skill-Gap-Analyzer) |
+An AI-powered recruitment platform that analyzes resumes, extracts skills, compares them with job descriptions, and recommends personalized improvements using NLP and Machine Learning.
 
-### Engineering Walkthrough
-Developed a production-ready analytical tool that parses text from resume uploads, runs NLP text preprocessing (stop-word removal, tokenization, and entity extraction), and matches extracted vectors against standard job description requirements. Utilizing Scikit-learn's TF-IDF vectorizers, it ranks candidate profile matches and generates actionable recommendations for bridging the identified skills gap.
-</details>
+| Category | Details |
+|----------|---------|
+| Stack | Python, Flask, SQLite, NLP |
+| Scale | Multi-user Resume Processing |
+| Performance | Automated Skill Extraction |
+| Security | Input Validation & Secure Data Handling |
+| Impact | Personalized Career Recommendations |
+| Repository | https://github.com/Kartikey-kg |
 
-<details>
-<summary><b>👁️ AI Object Detection System</b></summary>
-<br/>
-
-> A real-time object detection system using Deep Learning and Computer Vision algorithms to detect, track, and classify multiple target objects from video streams.
-
-### Technical Profile
-| Dimension | Specification |
-| :--- | :--- |
-| **Stack** | Python, TensorFlow, OpenCV, NumPy |
-| **Scale** | Real-time local camera feed tracking and live inference operations |
-| **Performance** | Optimized inference loop running at high frame rates utilizing model quantization |
-| **Security** | Fully local visual feed processing, eliminating external cloud data leakage |
-| **Impact** | Demonstrates visual sorting and security automation potential with accurate tagging |
-| **Repository** | [AI-Object-Detection-System](https://github.com/Kartikey-kg/AI-Object-Detection-System) |
-
-### Engineering Walkthrough
-Constructed an optimized object detection pipeline using TensorFlow and OpenCV. The application processes video streams frame-by-frame, applying image normalization and tensor transformations. Detected items are mapped with bounding boxes and high-precision confidence labels in real-time, showcasing a highly performant and secure architecture.
-</details>
-
-<details>
-<summary><b>🖐️ Face, Pose & Hand Detection System</b></summary>
-<br/>
-
-> A high-fidelity, low-latency human tracking application using MediaPipe Holistic to track body language, facial contours, and hand signals in real-time.
-
-### Technical Profile
-| Dimension | Specification |
-| :--- | :--- |
-| **Stack** | Python, OpenCV, MediaPipe |
-| **Scale** | Zero-latency processing for interactive media and hand-tracking inputs |
-| **Performance** | 30+ FPS tracking capability using GPU-accelerated neural networks |
-| **Security** | Secure, local camera feed capture with no external network requirements |
-| **Impact** | Core engine for human-computer interaction (HCI) and gesture interface controls |
-| **Repository** | [Face-Pose-Hand-Detection](https://github.com/Kartikey-kg/Face-Pose-Hand-Detection) |
-
-### Engineering Walkthrough
-Implemented a real-time human biomechanics tracking engine that captures and tracks 468 facial mesh landmarks, 33 body posture coordinates, and 21 hand joints simultaneously. Using MediaPipe's framework, coordinates are computed dynamically and visualized on live video overlays with minimal latency, facilitating fluid gesture control interfaces.
 </details>
 
 ---
 
-## 📜 Certifications
+<details>
+<summary><b>AI Object Detection System</b></summary>
 
-### Google
-* <img src="https://img.shields.io/badge/Google%20AI%20Professional-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google AI Professional Certificate" />
+### Professional Overview
 
-### IBM
-* <img src="https://img.shields.io/badge/IBM%20AI%20Fundamentals-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="Artificial Intelligence Fundamentals - IBM" />
+A real-time object detection application capable of recognizing multiple objects simultaneously using deep learning and computer vision.
 
-### Amazon Web Services
-* <img src="https://img.shields.io/badge/AWS%20Generative%20AI-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="Introduction to Generative AI - AWS" />
+| Category | Details |
+|----------|---------|
+| Stack | Python, TensorFlow, OpenCV |
+| Scale | Real-time Detection |
+| Performance | Fast Multi-object Recognition |
+| Security | Local Processing |
+| Impact | AI-based Vision Applications |
+| Repository | https://github.com/Kartikey-kg |
+
+</details>
 
 ---
 
-## 📊 GitHub Analytics
+<details>
+<summary><b>Face, Pose & Hand Detection System</b></summary>
+
+### Professional Overview
+
+A MediaPipe-based application capable of tracking human pose, hand landmarks, and facial mesh in real time.
+
+| Category | Details |
+|----------|---------|
+| Stack | Python, OpenCV, MediaPipe |
+| Scale | Live Camera Tracking |
+| Performance | High FPS Landmark Detection |
+| Security | Offline Processing |
+| Impact | Gesture Recognition & Motion Analysis |
+| Repository | https://github.com/Kartikey-kg |
+
+</details>
+
+---
+
+# Experience
+
+## AI & Full Stack Developer
+
+**Personal Engineering Projects**
+
+**2024 — Present**
+
+Developing AI-driven software applications and modern web solutions while exploring scalable software engineering practices.
+
+### Scope of Work
+
+- AI-based Resume Analysis Platform
+- Computer Vision Applications
+- React Web Applications
+- Flask Backend Development
+- SQL Database Design
+- REST API Development
+- Git Version Control
+- Software Architecture
+
+**Skills**
+
+`Python`
+`React`
+`Node.js`
+`Flask`
+`SQL`
+`Machine Learning`
+`Computer Vision`
+`Git`
+
+---
+
+# Achievements
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Kartikey-kg&title_color=A855F7&icon_color=A855F7&text_color=E9D5FF&bg_color=090514&border_color=3b0764&show_icons=true" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartikey-kg&layout=compact&title_color=A855F7&icon_color=A855F7&text_color=E9D5FF&bg_color=090514&border_color=3b0764" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
 
-  <br/>
+| Recognition | Details |
+|-------------|----------|
+| MCA | Thapar Institute of Engineering & Technology |
+| BCA | Chandigarh University |
+| AI Projects | Multiple AI & Computer Vision Systems |
+| Certifications | Google, IBM, AWS |
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kartikey-kg&theme=tokyonight&background=090514&fire=A855F7&ring=A855F7&border=3b0764&stroke=A855F7&text=E9D5FF" alt="GitHub Streak" />
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+# Certifications
+
+## Google
+
+![](https://img.shields.io/badge/Google-AI_Professional_Certificate-4285F4?style=for-the-badge&logo=google)
+
+## IBM
+
+![](https://img.shields.io/badge/IBM-AI_Fundamentals-1261FE?style=for-the-badge&logo=ibm)
+
+## AWS
+
+![](https://img.shields.io/badge/AWS-Introduction_to_Generative_AI-FF9900?style=for-the-badge&logo=amazonaws)
+
+## Oracle
+
+![](https://img.shields.io/badge/Oracle-Coming_Soon-F80000?style=for-the-badge&logo=oracle)
+
+## Cisco
+
+![](https://img.shields.io/badge/Cisco-Coming_Soon-049FD9?style=for-the-badge&logo=cisco)
+
+## NPTEL
+
+![](https://img.shields.io/badge/NPTEL-Coming_Soon-4B0082?style=for-the-badge)
+
+---
+
+# Coding Profiles
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kartikey-kg&theme=dracula&column=7&margin-w=15&margin-h=15&no-bg=true&no-border=true" alt="GitHub Trophies" />
+
+<a href="https://leetcode.com/">
+
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
+
+</a>
+
+<a href="https://www.geeksforgeeks.org/">
+
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks"/>
+
+</a>
+
+<a href="https://www.hackerrank.com/">
+
+<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank"/>
+
+</a>
+
+<a href="https://www.codechef.com/">
+
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge"/>
+
+</a>
+
 </div>
 
 ---
 
-## 📈 Contribution Activity
+# GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kartikey-kg&theme=react-dark&bg_color=090514&color=A855F7&line=8a2be2&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kartikey-kg&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Kartikey-kg&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartikey-kg&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+# GitHub Trophies
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Kartikey-kg/Kartikey-kg/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Game" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=Kartikey-kg&theme=tokyonight&no-frame=true&margin-w=15&column=4"/>
+
 </div>
 
 ---
 
-## 🎯 Current Focus
+# Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kartikey-kg&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Kartikey-kg/Kartikey-kg/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# Current Focus
 
 ```yaml
-learning: 
-  - "Advanced Deep Learning Frameworks"
-  - "Distributed System Architectures"
-building: 
-  - "Enterprise-ready Intelligent Agents"
-  - "Quantized Computer Vision Inference Engines"
-exploring: 
-  - "Multi-modal Generative AI Pipelines"
-  - "Microservices Orchestration with Kubernetes"
-open_to: 
-  - "AI Engineer Positions"
-  - "Software Engineering Collaborations"
+Learning:
+  - Advanced React
+  - System Design
+  - AI Engineering
+  - Machine Learning
+  - Cloud Technologies
+
+Building:
+  - AI Resume Skill Gap Analyzer
+  - Computer Vision Applications
+  - Full Stack Web Platforms
+
+Exploring:
+  - DevOps
+  - Docker
+  - Kubernetes
+  - Scalable Backend Systems
+
+Open To:
+  - Software Engineering Internship
+  - AI Engineer Roles
+  - Open Source Contributions
+  - Research Collaboration
+```
+
+---
+
+# Connect
+
+<div align="center">
+
+<a href="mailto:kkartikeygupta@gmail.com">
+
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+
+</a>
+
+<a href="https://www.linkedin.com/in/kartikey-gupta-74b5b02a0/">
+
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+
+</a>
+
+<a href="https://github.com/Kartikey-kg">
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+
+</a>
+
+<a href="https://github.com/Kartikey-kg">
+
+<img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge"/>
+
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+*"Engineering intelligent software that creates meaningful impact."*
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=6,12,20,24,30"/>
+
+</div>

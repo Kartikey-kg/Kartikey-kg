@@ -3,7 +3,7 @@
   
   <br/>
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=MCA+Scholar+%40+TIET;AI+%2F+ML+Engineer;Full+Stack+Developer;Creative+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=AI+%2F+ML+Engineer;Full+Stack+Developer;Creative+Problem+Solver" alt="Typing SVG" />
   
   <br/>
 
@@ -169,33 +169,6 @@ Implemented a real-time human biomechanics tracking engine that captures and tra
 
 ---
 
-## 💼 Experience
-
-### Open Source Contributor & Freelance Developer
-**Self-Employed** | *Aug 2022 - Present*
-* Architected and implemented several AI-driven projects, focus-group applications, and automated utility software.
-* Built modular, scalable REST APIs using **Flask** and **Node.js** to integrate deep learning models with responsive user interfaces.
-* Contributed to developer forums and open-source project repositories, debugging issues, writing clean documentation, and improving code structures.
-* Handled schema design and data modeling across **MongoDB**, **MySQL**, and **SQLite** for various custom software projects.
-
-`Python` `JavaScript` `C++` `Flask` `OpenCV` `TensorFlow` `React.js` `Git` `SQL`
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-| Recognition | Details |
-| :--- | :--- |
-| **MCA Scholar** | Top academic performer at *Thapar Institute of Engineering & Technology*, maintaining a CGPA of 7.52. |
-| **BCA Distinction** | Completed Bachelor of Computer Applications at *Chandigarh University* with a cumulative CGPA of 7.4/10. |
-| **AI Specialist Certifications** | Successfully completed advanced specialization programs in Artificial Intelligence from Google and IBM. |
-
-</div>
-
----
-
 ## 📜 Certifications
 
 ### Google
@@ -206,25 +179,6 @@ Implemented a real-time human biomechanics tracking engine that captures and tra
 
 ### Amazon Web Services
 * <img src="https://img.shields.io/badge/AWS%20Generative%20AI-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="Introduction to Generative AI - AWS" />
-
----
-
-## 💻 Coding Profiles
-
-<div align="center">
-  <a href="https://leetcode.com/kkartikeygupta" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-  <a href="https://www.geeksforgeeks.org/user/kkartikeygupta" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/kkartikeygupta" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
-  </a>
-  <a href="https://www.codechef.com/users/kkartikeygupta" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-5B4636?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
-  </a>
-</div>
 
 ---
 

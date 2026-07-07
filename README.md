@@ -214,8 +214,6 @@ Developing AI-driven software applications and modern web solutions while explor
 
 | Recognition | Details |
 |-------------|----------|
-| MCA | Thapar Institute of Engineering & Technology |
-| BCA | Chandigarh University |
 | AI Projects | Multiple AI & Computer Vision Systems |
 | Certifications | Google, IBM, AWS |
 

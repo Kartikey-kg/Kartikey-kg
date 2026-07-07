@@ -20,7 +20,7 @@
     <a href="https://linkedin.com/in/kkartikeygupta">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-blueviolet?style=for-the-badge&logo=linkedin&logoColor=white&color=8a2be2" alt="LinkedIn" />
     </a>
-    <a href="https://github.com/kkartikeygupta">
+    <a href="https://github.com/Kartikey-kg">
       <img src="https://img.shields.io/badge/GitHub-Follow-indigo?style=for-the-badge&logo=github&logoColor=white&color=5c00a3" alt="GitHub" />
     </a>
     <a href="https://kartikey-portfolio.vercel.app">
@@ -29,9 +29,9 @@
   </p>
 
   <p align="center">
-    <img src="https://komarev.com/normal-badge/?username=kkartikeygupta&color=9d4edd&style=flat-square&label=Profile+Views" alt="Profile Views" />
-    <img src="https://img.shields.io/github/followers/kkartikeygupta?label=Followers&style=flat-square&color=8a2be2" alt="Followers" />
-    <img src="https://img.shields.io/github/stars/kkartikeygupta?label=Stars&style=flat-square&color=7a00ff" alt="Stars" />
+    <img src="https://komarev.com/normal-badge/?username=Kartikey-kg&color=9d4edd&style=flat-square&label=Profile+Views" alt="Profile Views" />
+    <img src="https://img.shields.io/github/followers/Kartikey-kg?label=Followers&style=flat-square&color=8a2be2" alt="Followers" />
+    <img src="https://img.shields.io/github/stars/Kartikey-kg?label=Stars&style=flat-square&color=7a00ff" alt="Stars" />
   </p>
 </div>
 
@@ -121,7 +121,7 @@ I am a highly analytical and detail-oriented **Software Engineer** and **AI/ML S
 | **Performance** | Sub-second resume parsing, tokenization, and vector cosine similarity scoring |
 | **Security** | Sanitized file upload validation, structured SQLite query parameterization |
 | **Impact** | Automates resume evaluation and outputs highly targeted skill improvement metrics |
-| **Repository** | [AI-Resume-Skill-Gap-Analyzer](https://github.com/kkartikeygupta/AI-Resume-Skill-Gap-Analyzer) |
+| **Repository** | [AI-Resume-Skill-Gap-Analyzer](https://github.com/Kartikey-kg/AI-Resume-Skill-Gap-Analyzer) |
 
 ### Engineering Walkthrough
 Developed a production-ready analytical tool that parses text from resume uploads, runs NLP text preprocessing (stop-word removal, tokenization, and entity extraction), and matches extracted vectors against standard job description requirements. Utilizing Scikit-learn's TF-IDF vectorizers, it ranks candidate profile matches and generates actionable recommendations for bridging the identified skills gap.
@@ -141,7 +141,7 @@ Developed a production-ready analytical tool that parses text from resume upload
 | **Performance** | Optimized inference loop running at high frame rates utilizing model quantization |
 | **Security** | Fully local visual feed processing, eliminating external cloud data leakage |
 | **Impact** | Demonstrates visual sorting and security automation potential with accurate tagging |
-| **Repository** | [AI-Object-Detection-System](https://github.com/kkartikeygupta/AI-Object-Detection-System) |
+| **Repository** | [AI-Object-Detection-System](https://github.com/Kartikey-kg/AI-Object-Detection-System) |
 
 ### Engineering Walkthrough
 Constructed an optimized object detection pipeline using TensorFlow and OpenCV. The application processes video streams frame-by-frame, applying image normalization and tensor transformations. Detected items are mapped with bounding boxes and high-precision confidence labels in real-time, showcasing a highly performant and secure architecture.
@@ -161,7 +161,7 @@ Constructed an optimized object detection pipeline using TensorFlow and OpenCV. 
 | **Performance** | 30+ FPS tracking capability using GPU-accelerated neural networks |
 | **Security** | Secure, local camera feed capture with no external network requirements |
 | **Impact** | Core engine for human-computer interaction (HCI) and gesture interface controls |
-| **Repository** | [Face-Pose-Hand-Detection](https://github.com/kkartikeygupta/Face-Pose-Hand-Detection) |
+| **Repository** | [Face-Pose-Hand-Detection](https://github.com/Kartikey-kg/Face-Pose-Hand-Detection) |
 
 ### Engineering Walkthrough
 Implemented a real-time human biomechanics tracking engine that captures and tracks 468 facial mesh landmarks, 33 body posture coordinates, and 21 hand joints simultaneously. Using MediaPipe's framework, coordinates are computed dynamically and visualized on live video overlays with minimal latency, facilitating fluid gesture control interfaces.
@@ -188,17 +188,17 @@ Implemented a real-time human biomechanics tracking engine that captures and tra
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=kkartikeygupta&title_color=A855F7&icon_color=A855F7&text_color=E9D5FF&bg_color=090514&border_color=3b0764&show_icons=true" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Kartikey-kg&title_color=A855F7&icon_color=A855F7&text_color=E9D5FF&bg_color=090514&border_color=3b0764&show_icons=true" alt="GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkartikeygupta&layout=compact&title_color=A855F7&icon_color=A855F7&text_color=E9D5FF&bg_color=090514&border_color=3b0764" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartikey-kg&layout=compact&title_color=A855F7&icon_color=A855F7&text_color=E9D5FF&bg_color=090514&border_color=3b0764" alt="Top Languages" />
       </td>
     </tr>
   </table>
 
   <br/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kkartikeygupta&theme=tokyonight&background=090514&fire=A855F7&ring=A855F7&border=3b0764&stroke=A855F7&text=E9D5FF" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kartikey-kg&theme=tokyonight&background=090514&fire=A855F7&ring=A855F7&border=3b0764&stroke=A855F7&text=E9D5FF" alt="GitHub Streak" />
 </div>
 
 ---
@@ -206,7 +206,7 @@ Implemented a real-time human biomechanics tracking engine that captures and tra
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kkartikeygupta&theme=dracula&column=7&margin-w=15&margin-h=15&no-bg=true&no-border=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Kartikey-kg&theme=dracula&column=7&margin-w=15&margin-h=15&no-bg=true&no-border=true" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -214,7 +214,7 @@ Implemented a real-time human biomechanics tracking engine that captures and tra
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kkartikeygupta&theme=react-dark&bg_color=090514&color=A855F7&line=8a2be2&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kartikey-kg&theme=react-dark&bg_color=090514&color=A855F7&line=8a2be2&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
 </div>
 
 ---
@@ -222,7 +222,7 @@ Implemented a real-time human biomechanics tracking engine that captures and tra
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/kkartikeygupta/kkartikeygupta/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Game" />
+  <img src="https://raw.githubusercontent.com/Kartikey-kg/Kartikey-kg/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Game" />
 </div>
 
 ---
